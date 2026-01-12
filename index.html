@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Sorting Algorithm Visualizer</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <div class="container">
+    <h1>Sorting Algorithm Visualizer</h1>
+
+    <div class="controls">
+      <select id="algorithm">
+        <option value="bubble">Bubble Sort</option>
+        <option value="selection">Selection Sort</option>
+        <option value="insertion">Insertion Sort</option>
+      </select>
+
+      <button onclick="generateArray()">Generate Array</button>
+      <button onclick="startSort()">Start Sorting</button>
+
+      <label>
+        Speed
+        <input type="range" min="50" max="1000" value="300" id="speed">
+      </label>
+    </div>
+
+    <div class="bars" id="bars"></div>
+
+    <div class="footer">DSA Project</div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
