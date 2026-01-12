@@ -26,46 +26,24 @@ A web-based **Sorting Algorithm Visualizer** built using **HTML, CSS, and JavaSc
 
 
 
+## How to Run the Project
 
-## ▶️ How to Run the Project
-
-1. Clone the repository
-
-   ```bash
+1. Clone the repository:
    git clone https://github.com/your-username/sorting-algorithm-visualizer.git
-   ```
-2. Open the project folder
-3. Double-click on **index.html** or open it in any modern browser
+2. Open the project folder.
+3. Double-click on **index.html** or open it in any modern browser.
 
----
 
-## 📸 Screenshots
+## Learning Outcomes
 
-*Add screenshots here after running the project*
+* Improved understanding of sorting algorithms.
+* Hands-on experience with JavaScript logic.
+* Better grasp of time complexity and algorithm behavior.
 
----
-
-## 🎯 Learning Outcomes
-
-* Improved understanding of sorting algorithms
-* Hands-on experience with JavaScript logic
-* Better grasp of time complexity and algorithm behavior
-
----
 
 ## 📌 Future Improvements
 
-* Add more algorithms (Merge Sort, Quick Sort)
-* Add array size control
-* Improve UI animations
+* Add more algorithms. (Merge Sort, Quick Sort)
+* Add array size control.
+* Improve UI animations.
 
----
-
-## 👩‍💻 Author
-
-**Sakshi**
-2nd Year CSE Student | Aspiring Software Engineer
-
----
-
-⭐ If you like this project, don’t forget to star the repository!
