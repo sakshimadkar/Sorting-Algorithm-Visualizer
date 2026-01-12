@@ -2,44 +2,30 @@
 
 A web-based **Sorting Algorithm Visualizer** built using **HTML, CSS, and JavaScript**. This project helps in understanding how different sorting algorithms work by visualizing their step-by-step execution with animations.
 
----
 
-## 🚀 Features
+##  Features
 
-* Visualizes popular sorting algorithms
-* Adjustable sorting speed
-* Random array generation
-* Clean and responsive UI
-* Easy to understand for DSA beginners
+* Visualizes popular sorting algorithms.
+* Adjustable sorting speed.
+* Random array generation.
+* Clean and responsive UI.
+* Easy to understand for DSA beginners.
 
-### Algorithms Implemented
+## Algorithms Implemented
 
 * Bubble Sort
 * Selection Sort
 * Insertion Sort
 
----
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
-* **HTML** – Structure
-* **CSS** – Styling & animations
-* **JavaScript** – Logic & algorithm implementation
+* HTML – Structure
+* CSS – Styling & animations
+* JavaScript – Logic & algorithm implementation
 
----
 
-## 📁 Project Structure
 
-```
-sorting-algorithm-visualizer/
-│
-├── index.html
-├── style.css
-├── script.js
-└── README.md
-```
-
----
 
 ## ▶️ How to Run the Project
 
