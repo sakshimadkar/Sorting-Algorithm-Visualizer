@@ -41,7 +41,7 @@ A web-based **Sorting Algorithm Visualizer** built using **HTML, CSS, and JavaSc
 * Better grasp of time complexity and algorithm behavior.
 
 
-## 📌 Future Improvements
+##  Future Improvements
 
 * Add more algorithms. (Merge Sort, Quick Sort)
 * Add array size control.
